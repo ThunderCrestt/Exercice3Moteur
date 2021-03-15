@@ -235,7 +235,7 @@
                       },
                       "Collider": {
                         "flag": 4,
-                        "mask": 0,
+                        "mask": 1,
                         "size": {
                           "w": 7,
                           "h": 7
@@ -261,7 +261,7 @@
                       },
                       "Collider": {
                         "flag": 4,
-                        "mask": 0,
+                        "mask": 1,
                         "size": {
                           "w": 8,
                           "h": 14
